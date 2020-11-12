@@ -114,8 +114,3 @@ function translate() {
 
   textOutput.innerHTML = arrayToString;
 }
-console.log("Step 1, get the text:", "Hello");
-console.log("Step 2, splitting the input words into an array of characters:", textArray);
-console.log("Step 3, creating a function to access the morse library:", libraryAccess);
-console.log("Step 4, mapping the textArray of characters to said function:", map1);
-console.log("Step 5, transfering the array into a string and replacing ALL the commas with a space:", arrayToString);
